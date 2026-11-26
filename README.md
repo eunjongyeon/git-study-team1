@@ -136,7 +136,12 @@ merge를 총 몇 번 했는지, 순서대로 어떻게 진행했는지
 충돌은 어느 파일, 어느 줄에서 났는지, 화면에 뭐가 떴는지, 어떻게 골라서 해결했는지
 
 은종연
-* 브런치는 과제에 명시된 feedback에 본인이름을 영문으로 붙였다.
+* 
+jonghyun/review_261126
+feedback-Jingyu
+Cho-/-branch
+feedback-Yejin
+feedback-jongyeon
 * merge는 5명 팀으로 총 다섯 번 진행했다.
 * 충돌은 review.md 파일에서 발생했으며 solve conflicts가 떴으나 클릭하지 않았다. 실무에서는 해당 방식으로 수정하는 것이 아니라 각 담당자에게 직접 충돌난 부분의 수정을 요청한 뒤 수정된 Pull Request를 확인하고 merge 한다고 해서 해당 방식으로 진행했다. 충돌이 난 줄은 같은 줄을 기입한 부분이었다.
 
